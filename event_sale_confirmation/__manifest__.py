@@ -16,6 +16,7 @@
     ],
     "data": [
         "views/event_registration_view.xml",
+        "views/tour_views.xml",
     ],
     "demo": [
     ],
